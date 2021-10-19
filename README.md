@@ -9,4 +9,4 @@ I'm a kid from Ontario aspring to be a web developer. Of course, I've already le
 ![Top Languages][TopLangsCompact]
 
 [GeneralStatsWIcons]: https://github-readme-stats.vercel.app/api?username=TheAyoKhan&show_icons=true
-[TopLangsCompact]: https://github.com/anuraghazra/github-readme-stats#top-languages-card
+[TopLangsCompact]: https://github-readme-stats.vercel.app/api/top-langs?username=TheAyoKhan&layout=compact
