@@ -8,5 +8,5 @@ I'm a kid from Ontario aspiring to be a web developer. Of course, I've already l
 ![General Stats][GeneralStatsWIcons]
 ![Top Languages][TopLangsCompact]
 
-[GeneralStatsWIcons]: https://github-readme-stats.vercel.app/api?username=TheAyoKhan&show_icons=true
-[TopLangsCompact]: https://github-readme-stats.vercel.app/api/top-langs?username=TheAyoKhan&layout=compact
+[GeneralStatsWIcons]: https://github-readme-stats.vercel.app/api?username=TheAyoKhan&theme=radical&show_icons=true
+[TopLangsCompact]: https://github-readme-stats.vercel.app/api/top-langs?username=TheAyoKhan&theme=radical&layout=compact
